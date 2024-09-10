@@ -1,2 +1,3 @@
-# 2024-dju-db-code
+# 2024-sql-code
+
 Repository to collect all SQL files for DJU-DB.
